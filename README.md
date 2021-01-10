@@ -6,7 +6,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Yash Kumar Verma, Full Stack Developer
+  I'm Yash from India. I fell in love with computers, programming and technology when I was 15 y/o, and since then it has been an exciting journey.
   <br>
   <br>
   🔬 I'm currently studying for a bachelor's's degree in Computer Science at VIT University
