@@ -88,4 +88,4 @@ A friendly bot to generate detailed reports about repositories, project selected
 <br>
 <!-- project section 4 ends -->
 
-<h4 align="center"><a href=https://github.com/yashkumarverma?tab=repositories" title="Show Repositories">🔎 View All my works 🔍</a></h4> 
+<h4 align="center"><a href="https://github.com/yashkumarverma?tab=repositories" title="Show Repositories">🔎 View All my works 🔍</a></h4> 
