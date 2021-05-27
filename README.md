@@ -15,6 +15,9 @@
   💻 I'm passionate about problem solving, cloud, and ever ready for innovative projects ! 
   <br>
   📫 How to reach me: <a href="mailto: yk.verma2000@gmail.com">yk.verma2000@gmail.com</a>
+  <br>
+
+  **Current Status** : Google Summer of Code @ caMicroScope
 </p>
 
 <hr>
