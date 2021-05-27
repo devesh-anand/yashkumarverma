@@ -34,7 +34,6 @@
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yk.verma2000@gmail.com)
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-kumar-verma/)
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/yashkumarverma)
-
 ![Visitor](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=yashkumarverma&repo=yashkumarverma&countColorcountColor&countColor=%237B1E7B)
 
 <hr />
