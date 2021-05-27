@@ -15,7 +15,7 @@
   📫 How to reach me: <a href="mailto: yk.verma2000@gmail.com">yk.verma2000@gmail.com</a>
   <br>
 
-  **Current Status** : Google Summer of Code @ caMicroScope
+  **Current Status** : Google Summer of Code @camicroscope
 </p>
 
 <hr>
