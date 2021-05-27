@@ -1,9 +1,7 @@
 ![Cover Banner](https://raw.githubusercontent.com/yashkumarverma/yashkumarverma/master/assets/banner.png)
 <h3 align="center">Hello there, I'm Yash 👋</h3>
 <h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/yash-kumar-verma/" title="LinkedIn Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://stackoverflow.com/users/5131640/yash-kumar-verma" title="Stack Overflow Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/stackoverflow.svg"> Stack Overflow</a></code>
+    <a href="https://yashkumarverma.github.io/" target="_BLANK">View my Portfolio, Blogs and Projects</a>
 </h5>
 <br>
 <p align="center">
@@ -37,7 +35,6 @@
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-kumar-verma/)
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/yashkumarverma)
 
-
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=yashkumarverma.yashkumarverma)
+![Visitor](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=yashkumarverma&repo=yashkumarverma&countColorcountColor&countColor=%237B1E7B)
 
 <h4 align="center"><a href="https://github.com/yashkumarverma?tab=repositories" title="Show Repositories">🔎 View All my works 🔍</a></h4> 
