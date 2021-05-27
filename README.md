@@ -39,7 +39,16 @@
 
 <hr />
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yashkumarverma)](https://github.com/yashkumarverma/yashkumarverma)
+<table>
+    <tr>
+        <td>
+            <img src="https://github-profile-trophy.vercel.app/?username=yashkumarverma&no-frame=true&theme=gruvbox&column=3&row=3"  display=block width=100% height=auto  alt="1" >
+        </td>
+        <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashkumarverma"  display=block width=100% height=auto alt="3" align="right">
+        </td>
+    </tr>
+</table> 
 
 
 <h4 align="center"><a href="https://github.com/yashkumarverma?tab=repositories" title="Show Repositories">🔎 View All my works 🔍</a></h4> 
