@@ -37,4 +37,9 @@
 
 ![Visitor](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=yashkumarverma&repo=yashkumarverma&countColorcountColor&countColor=%237B1E7B)
 
+<hr />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yashkumarverma)](https://github.com/yashkumarverma/yashkumarverma)
+
+
 <h4 align="center"><a href="https://github.com/yashkumarverma?tab=repositories" title="Show Repositories">🔎 View All my works 🔍</a></h4> 
