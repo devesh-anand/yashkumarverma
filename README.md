@@ -26,66 +26,16 @@
 
 <hr>
 
-<!-- project setion 1 -->
-<h2 align="center">Reverse Coding 2020</h2>
-<p align="center">
-A completely online reverse engineering competition. Integration with judge0 to award points and serve data. Handled 600 simultaneous users, 13k+ code submissions and 50k+ code-runner calls, with well documented REST api.
-<br />
-Serverless function to seek data from cloud storage. Written to elimiate firebase as a dependency from other two services, and allow question creators to simply upload questions and automatically create time-bound download links.  
-<br />
-task-runner is a code-runner written in GoLang(for performance and concurrency) to execute code online. Added so that participants do not face issues in running executables locally due to architecture differences.
+<p align=center >
+
+[![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yk.verma2000)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yash_kr_verma)
+[![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5131640/yash-kumar-verma?tab=profile)
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yk.verma2000@gmail.com)
+[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-kumar-verma/)
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/yashkumarverma)
 
 </p>
-<p width="100%" align="center">
-    <a align="center" href="https://github.com/YashKumarVerma/rc-heimdall" title="RC Heimdall">
-        <img align="center" height="115" src="https://github-readme-stats-lac-five.vercel.app/api/pin/?username=yashkumarverma&repo=rc-heimdall&theme=gotham" />
-    </a>
-</p>
-<br>
-<!-- project section 1 ends -->
 
-
-
-<!-- project setion 2 -->
-<h2 align="center">Facebook / React Native</h2>
-<p align="center">
-As part of the MLH Fellowship of the very first batch, I(our team) worked on Facebook's React Native framework to decouple the testing modules from the react monorepo. The team also worked on redesign and prototype of a new testing application, widely known as RNTester.
-</p>
-<p width="100%" align="center">
-    <a align="center" href="https://github.com/facebook/react-native" title="React Native">
-        <img align="center" height="115" src="https://github-readme-stats-lac-five.vercel.app/api/pin/?username=facebook&repo=react-native&theme=gotham" />
-    </a>
-</p>
-<br>
-<!-- project section 2 ends -->
-
-
-
-<!-- project setion 3 -->
-<h2 align="center">ACMVIT / Dolos</h2>
-<p align="center">
-As an initiative to promote open source culture in the university, a project named Dolos was started. It provides a useful api which can mock data in any required format.
-</p>
-<p width="100%" align="center">
-    <a align="center" href="https://github.com/acm-vit/dolos" title="Dolos">
-        <img align="center" height="115" src="https://github-readme-stats-lac-five.vercel.app/api/pin/?username=acm-vit&repo=dolos&theme=gotham" />
-    </a>
-</p>
-<br>
-<!-- project section 3 ends -->
-
-
-<!-- project setion 4 -->
-<h2 align="center">Github Spy</h2>
-<p align="center">
-A friendly bot to generate detailed reports about repositories, project selected as part of [Script Winter of Code](https://swoc.tech/).
-</p>
-<p width="100%" align="center">
-    <a align="center" href="https://github.com/yashkumarverma/github-spy" title="Github Spy">
-        <img align="center" height="115" src="https://github-readme-stats-lac-five.vercel.app/api/pin/?username=yashkumarverma&repo=github-spy&theme=gotham" />
-    </a>
-</p>
-<br>
-<!-- project section 4 ends -->
 
 <h4 align="center"><a href="https://github.com/yashkumarverma?tab=repositories" title="Show Repositories">🔎 View All my works 🔍</a></h4> 
