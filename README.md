@@ -1,3 +1,4 @@
+![Cover Banner](https://raw.githubusercontent.com/yashkumarverma/yashkumarverma/master/assets/banner.png)
 <h3 align="center">Hello there, I'm Yash 👋</h3>
 <h5 align="center">
   <code>
@@ -26,8 +27,6 @@
 
 <hr>
 
-<p align=center >
-
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yk.verma2000)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yash_kr_verma)
 [![stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5131640/yash-kumar-verma?tab=profile)
@@ -35,7 +34,7 @@
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-kumar-verma/)
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/yashkumarverma)
 
-</p>
 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=yashkumarverma.yashkumarverma)
 
 <h4 align="center"><a href="https://github.com/yashkumarverma?tab=repositories" title="Show Repositories">🔎 View All my works 🔍</a></h4> 
